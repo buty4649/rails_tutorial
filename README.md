@@ -1,2 +1,2 @@
 # rails_tutorial
-https://railstutorial.jp/
+https://railstutorial.jp/ をやる
