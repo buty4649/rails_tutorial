@@ -8,3 +8,11 @@ class ActiveSupport::TestCase
 
   # Add more helper methods to be used by all tests here...
 end
+
+class Notiffany::Notifier::Tmux::Client
+  class << self
+    def version
+      2.3
+    end
+  end
+end
